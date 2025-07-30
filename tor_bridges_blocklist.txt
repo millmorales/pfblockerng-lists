@@ -1,0 +1,16 @@
+# Dominios para bloquear puentes Tor
+snowflake.torproject.net
+rds.snflk.net
+turn.snflk.net
+stun.l.google.com
+ajax.aspnetcdn.com
+a248.e.akamai.net
+cdn.cloudflare.net
+
+# Rangos IP aproximados usados por Tor Bridges (ejemplo)
+185.220.101.0/24
+154.35.175.0/24
+193.23.244.0/24
+185.89.218.0/24
+178.63.34.0/24
+37.218.247.0/24
