@@ -55,6 +55,41 @@ cheat-prevention.garena.com
 cheat-monitor.garena.com
 cheat-monitoring-logs.ff-garena.com
 cheat-prevention-analytics.ff-garena.com
+203.117.144.0/20
+203.117.156.0/22
+103.10.124.0/22
+45.115.0.0/16
+47.74.0.0/16
+52.220.0.0/15
+8.210.0.0/15
+103.104.72.0/22
+103.104.76.0/22
+103.104.80.0/22
+garena.com
+ff.garena.com
+freefiremobile.com
+freefiremax.com
+client.common.freefiremobile.com
+client.ind.freefiremobile.com
+common.freefiremobile.com
+csoversea.castle.freefiremobile.com
+dl.castle.freefiremobile.com
+dl.cdn.freefiremobile.com
+dl.ctlin.freefiremobile.com
+dl.gcp.freefiremobile.com
+dl.wsu.freefiremobile.com
+sea.freefiremobile.com
+ind.freefiremobile.com
+version.common.freefiremobile.com
+security.garena.com
+test.castle.api.freefiremobile.com
+testgameservice.garena.com
+mm.ff.garena.com
+data.garena.com
+cheat-prevention.garena.com
+cheat-monitor.garena.com
+cheat-monitoring-logs.ff-garena.com
+cheat-prevention-analytics.ff-garena.com
 
 
 # Call of Duty
@@ -80,6 +115,18 @@ webstatic-sea.hoyoverse.com
 api-os-takumi.mihoyo.com
 
 # Mobile Legends (Moonton)
+mobilelegends.com
+m.mobilelegends.com
+mlbb.com
+id.mobilelegends.com
+45.112.0.0/16
+103.104.0.0/16
+47.89.0.0/16
+47.88.0.0/16
+8.210.0.0/15
+39.105.0.0/16
+101.200.0.0/16
+106.14.0.0/16
 mobilelegends.com
 m.mobilelegends.com
 mlbb.com
@@ -131,10 +178,67 @@ switch.nintendo.com
 unity.com
 unityads.unity3d.com
 
-# Tiendas paralelas (APK)
+# Google Play
+play.google.com/store/apps
+# 📱 Tiendas de APK
 apkcombo.com
 apkpure.com
 apkmirror.com
+apkmonk.com
+apktada.com
+apk-dl.com
+apk.support
 
-# Google Play
-play.google.com/store/apps
+# 📱 Amazon Appstore
+www.amazon.com/appstore
+fls-na.amazon.com
+
+# 📱 Huawei AppGallery
+appgallery.huawei.com
+
+# 📱 Samsung Galaxy Store
+galaxy.store
+apps.samsung.com
+
+# 📱 Microsoft Store
+store.microsoft.com
+dl.delivery.mp.microsoft.com
+officecdn.microsoft.com
+
+# 🎮 Supercell (Clash Royale, Clash of Clans, Brawl Stars)
+91.202.63.0/24
+supercell.com
+clashroyale.com
+clashofclans.com
+brawlstars.com
+
+# 🎮 Candy Crush
+king.com
+candycrush.com
+
+# 🎮 Battle.net / Blizzard
+battle.net
+blizzard.com
+blzstatic.com
+
+# 🎮 EA / Origin
+ea.com
+eaassets.com
+origin.com
+
+# 🎮 Ubisoft / Uplay
+ubisoft.com
+uplay.com
+
+# 🎮 Rockstar Games
+rockstargames.com
+socialclub.rockstargames.com
+
+# 🎮 Consolas
+xbox.com
+xboxlive.com
+playstation.com
+sonyentertainmentnetwork.com
+nintendo.com
+nintendo.net
+switch.nintendo.com
