@@ -11,7 +11,8 @@
 # Roblox
 128.116.0.0/16
 
-# Garena (Free Fire)
+# 📛 IPs conocidas utilizadas por Free Fire / Garena / Tencent
+
 203.117.144.0/20
 203.117.156.0/22
 103.10.124.0/22
@@ -20,6 +21,15 @@
 52.220.0.0/15
 8.210.0.0/15
 47.88.0.0/16
+
+# 🎯 Puertos conocidos usados por Free Fire (bloquear en Firewall)
+
+# Protocolo: UDP
+10000-10020
+
+# Protocolo: TCP (uso sospechoso y tráfico HTTPS cifrado)
+443
+7000-8000
 
 
 
