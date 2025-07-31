@@ -34,6 +34,28 @@ garena.com
 ff.garena.com
 freefiremobile.com
 freefiremax.com
+client.common.freefiremobile.com
+client.ind.freefiremobile.com
+common.freefiremobile.com
+csoversea.castle.freefiremobile.com
+dl.castle.freefiremobile.com
+dl.cdn.freefiremobile.com
+dl.ctlin.freefiremobile.com
+dl.gcp.freefiremobile.com
+dl.wsu.freefiremobile.com
+sea.freefiremobile.com
+ind.freefiremobile.com
+version.common.freefiremobile.com
+security.garena.com
+test.castle.api.freefiremobile.com
+testgameservice.garena.com
+mm.ff.garena.com
+data.garena.com
+cheat-prevention.garena.com
+cheat-monitor.garena.com
+cheat-monitoring-logs.ff-garena.com
+cheat-prevention-analytics.ff-garena.com
+
 
 # Call of Duty
 codmobile.com
