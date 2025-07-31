@@ -1,70 +1,118 @@
+# Roblox
 roblox.com
-roblox.io
 rbxcdn.com
 rbxtrk.com
+
+# Fortnite / Epic Games
 fortnite.com
 epicgames.com
+epicgamescdn.com
 epicgames.dev
 epicgames.net
-epicgamescdn.com
+
+# Riot Games (Valorant, LoL, Wild Rift)
 playvalorant.com
 riotgames.com
 riotcdn.net
 lolstatic.com
 leagueoflegends.com
 wildrift.leagueoflegends.com
-steamcommunity.com
-steampowered.com
-steamcontent.com
-steamgames.com
-xboxlive.com
-xbox.com
-playstation.com
-sonyentertainmentnetwork.com
+
+# Minecraft
 minecraft.net
 mojang.com
 minecraftservices.com
 cdn.mojang.com
-garena.com
-ff.garena.com
-codmobile.com
-activision.com
-callofduty.com
+
+# PUBG
 pubg.com
 pubgmobile.com
 playbattlegrounds.com
-tencent.com
-gamingonphone.com
-gamepush.com
-unity.com
-unityads.unity3d.com
+
+# Garena / Free Fire / Free Fire Max
+garena.com
+ff.garena.com
+freefiremobile.com
+freefiremax.com
+
+# Call of Duty
+codmobile.com
+activision.com
+callofduty.com
+
+# Supercell (Clash Royale, Clash of Clans, Brawl Stars)
 supercell.com
 clashroyale.com
 clashofclans.com
 brawlstars.com
+
+# Candy Crush
 king.com
 candycrush.com
-discord.com
-discord.gg
-discordapp.com
-battle.net
-blizzard.com
-blzstatic.com
-ea.com
-eaassets.com
-origin.com
-ubisoft.com
-uplay.com
-nintendo.net
-nintendo.com
-switch.nintendo.com
-gameloft.com
-rockstargames.com
-socialclub.rockstargames.com
+
+# Genshin Impact / miHoYo / HoYoverse
 genshinimpact.com
 mihoyo.com
 hoyoverse.com
+webstatic-sea.hoyoverse.com
+api-os-takumi.mihoyo.com
+
+# Mobile Legends (Moonton)
+mobilelegends.com
+m.mobilelegends.com
+mlbb.com
+id.mobilelegends.com
+
+# Steam
+steamcommunity.com
+steampowered.com
+steamcontent.com
+steamgames.com
+
+# Discord
+discord.com
+discord.gg
+discordapp.com
+
+# Battle.net / Blizzard
+battle.net
+blizzard.com
+blzstatic.com
+
+# EA / Origin
+ea.com
+eaassets.com
+origin.com
+
+# Ubisoft / Uplay
+ubisoft.com
+uplay.com
+
+# Rockstar Games
+rockstargames.com
+socialclub.rockstargames.com
+
+# Xbox
+xbox.com
+xboxlive.com
+
+# PlayStation
+playstation.com
+sonyentertainmentnetwork.com
+
+# Nintendo
+nintendo.com
+nintendo.net
+switch.nintendo.com
+
+# Unity Ads
+unity.com
+unityads.unity3d.com
+
+# Tiendas paralelas (APK)
 apkcombo.com
 apkpure.com
 apkmirror.com
+
+# Google Play
 play.google.com/store/apps
