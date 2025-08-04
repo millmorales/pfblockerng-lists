@@ -242,3 +242,65 @@ sonyentertainmentnetwork.com
 nintendo.com
 nintendo.net
 switch.nintendo.com
+# 🔫 Call of Duty: Warzone / CoD Mobile
+callofduty.com
+codmobile.com
+activision.com
+api.activision.com
+stats.callofduty.com
+callofduty.tracker.gg
+
+# 🔥 Free Fire / Free Fire Max
+ff.garena.com
+ff.garena.vn
+freefiremobile.com
+cdn.garenanow.com
+cdn.garena.com
+garena.sg
+garena.com
+
+# 🧠 Mobile Legends
+mobilelegends.com
+m.mobilelegends.com
+api.mobilelegends.com
+cloudapi.ml.youzu.com
+apps.mobilelegends.com
+app.adjust.net.in
+
+# 🎯 PUBG Mobile
+pubgmobile.com
+cdn.pubgmobile.com
+pubg.com
+prod.midasbuy.com
+midasbuy.com
+img.midasbuy.com
+tencent.com
+igamecj.com
+igamecj.com.edgesuite.net
+api-glb-midas.midasbuy.com
+# 🔫 Activision / Warzone / CoD Mobile (AS396982, AS14618)
+185.60.112.0/23         # Activision/Blizzard
+185.60.114.0/23
+13.249.0.0/16           # AWS/CloudFront para callofduty.com
+
+# 🔥 Garena (Free Fire / Free Fire Max)
+103.10.124.0/22         # Garena Online
+203.117.144.0/20
+203.117.128.0/20
+45.112.128.0/22
+103.10.124.0/24
+150.107.32.0/22         # Garena Singapore
+
+# 🧠 Moonton (Mobile Legends)
+8.210.0.0/16            # Alibaba Cloud (servidores Moonton)
+47.246.0.0/16           # Moonton servers via CDN
+47.254.0.0/16
+140.238.0.0/16          # Oracle/Akamai (utilizado por Moonton en algunos países)
+
+# 🎯 PUBG Mobile / Tencent (AS132203, AS45090)
+119.28.0.0/15
+182.254.0.0/16
+183.232.0.0/16
+203.205.128.0/17
+203.205.64.0/18
+49.51.0.0/16
