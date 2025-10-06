@@ -18,11 +18,17 @@ telegram.me
 173.194.222.0/24
 
 tiktok.com
-www.tiktok.com
-api.tiktok.com
-m.tiktok.com
-v16m.tiktokcdn.com
-v19.tiktokcdn.com
-p16-tiktokcdn-com.akamaized.net
-p19-tiktokcdn-com.akamaized.net
+*.tiktok.com
+*.tiktokcdn.com
+*.bytefcdn-oversea.com
+*.ibytedtos.com
+*.byteoversea.com
+*.snssdk.com
+*.muscdn.com
+*.musical.ly
+47.246.0.0/16
+47.254.0.0/16
+161.117.0.0/16
+203.119.0.0/16
+
 
